@@ -10,8 +10,8 @@
 - [x] 业务功能：登录页-主页面窗口切换、token状态保存
 - [x] 业务功能：vue、axios、vue-router、vuex
 
-![Alt text](https://gitee.com/XiaoLanMiao/Demo-Electron/raw/master/Screen/screen2.png)
-![Alt text](https://gitee.com/XiaoLanMiao/Demo-Electron/raw/master/Screen/screen1.png)
+![Alt text](https://raw.githubusercontent.com/hilanmiao/Demo-Electron/master/Screen/screen2.png)
+![Alt text](https://raw.githubusercontent.com/hilanmiao/Demo-Electron/master/Screen/screen1.png)
 
 #### 软件架构
     "vue": "^2.4.2",
@@ -46,7 +46,7 @@ npm run lint
 
 #### 使用说明
 
-目前只是演示版，没有添加具体业务，后面可能会结合api做个简单的例子。安装包美化可以参考另一个项目[NSIS-UI](https://github.com/hilanmiao/NSIS-UI)
+release中可以下载exe安装包。目前只是演示版，没有添加具体业务，后面可能会结合api做个简单的例子。安装包美化可以参考另一个项目[NSIS-UI](https://github.com/hilanmiao/NSIS-UI)
 
 #### 参与贡献
 
